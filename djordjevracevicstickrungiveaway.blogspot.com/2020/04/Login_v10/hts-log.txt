@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 May 2020 16:32:46 at https://www.facebook.com/login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.facebook.com/login -O1 "C:\Users\Deezethz\Desktop\fb_login" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:29	Warning: 	Found for https://www.facebook.com/recover/initiate/?ars=facebook_login
+16:33:29	Warning: 	File has moved from https://www.facebook.com/recover/initiate/?ars=facebook_login to https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login
+16:37:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.facebook.com/marketplace/ (from https://www.facebook.com/login)
+16:41:08	Error: 	Exit requested by shell or user
+16:41:09	Warning: 	File not added due to mirror cancel: https://www.facebook.com/careers/life/the-impact-of-machine-learning-at-facebook-community-integrity-and-innovation
+16:41:09	Warning: 	Found for https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen
+16:41:09	Warning: 	File has moved from https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen to https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fads%2Fpreferences%2F%3Fentry_product%3Dad_settings_screen
+16:41:09	Error: 	"Not Found" (404) at link https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu (from https://www.facebook.com/login)
+16:41:09	Error: 	"Not Found" (404) at link https://www.facebook.com/1IqI (from https://www.facebook.com/login)
+16:41:13	Error: 	"Not Found" (404) at link https://www.facebook.com/login/1IqI (from https://www.facebook.com/login/)
+16:41:13	Error: 	"Not Found" (404) at link https://www.facebook.com/GET (from https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/Y34idJOYINT.js?_nc_x=Ij3Wp8lg5Kz)
+16:41:13	Error: 	"Not Found" (404) at link https://www.facebook.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/Y34idJOYINT.js?_nc_x=Ij3Wp8lg5Kz)
+16:41:14	Warning: 	Found for https://www.facebook.com/sideload/lite/download/?campaign_id=0
+16:41:14	Warning: 	File has moved from https://www.facebook.com/sideload/lite/download/?campaign_id=0 to https://www.facebook.com/lite/
+16:41:14	Warning: 	Found for https://www.facebook.com/sideload/lite/googleplay/
+16:41:14	Warning: 	File has moved from https://www.facebook.com/sideload/lite/googleplay/ to https://play.google.com/store/apps/details?id=com.facebook.lite
+16:41:14	Error: 	"Not Found" (404) at link https://www.facebook.com/lite/1IqI (from https://www.facebook.com/lite/)
+16:41:14	Warning: 	Found for https://www.facebook.com/watch/?ref=external&v=243036966917273
+16:41:14	Warning: 	File has moved from https://www.facebook.com/watch/?ref=external&v=243036966917273 to https://www.facebook.com/buzzfeedtasty/videos/243036966917273/
+16:41:15	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/p280x280/96372537_243038250250478_7884359185679253504_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQkBhq95Mfrh01FNatl3zLb6cakPbZ16wKB4f5SsNgDPnfSttw0V0gD4v-PcmDyt-0Y&_nc_ht=scontent.fdps5-1.fna&_nc_tp=6&oh=6ac160b9a2b230e433899caa251b890e&oe=5EE558A9' (from https://www.facebook.com/watch/)
+16:41:16	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/p280x280/95441299_688062768412763_3904977956216242176_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQk53TlRcLT0n8DbFy9sDkWAzDSG72TLS15AL-Ch4lxxkQj9rzr3VmCI9Ylgxuaf7Ho&_nc_ht=scontent.fdps5-1.fna&_nc_tp=6&oh=451f8929de52b8152995d2f114b33f88&oe=5EE4C74E' (from https://www.facebook.com/watch/)
+16:41:17	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/s280x280/71811447_767902430380923_1390852831560335360_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQmY3ixtGZXRPdzvBBj7sLiMj96tCLazWTVu-LNp8M8N-5pYgS79OJPfVPdEO5SdFAc&_nc_ht=scontent.fdps5-1.fna&_nc_tp=7&oh=e7d6d63b61a2d2dc545802e4686a7019&oe=5EE53C04' (from https://www.facebook.com/watch/)
+16:41:18	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/p280x280/71215018_457689721770092_8230393916055093248_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQmc7fSu0O3PG1n_COBtQfHcsp2uTKonTBu0-jo24t7QvhofivuNPjyI3TG-9wQqTpw&_nc_ht=scontent.fdps5-1.fna&_nc_tp=6&oh=01e4ac463cab6800bf91d57fbae3a629&oe=5EE54755' (from https://www.facebook.com/watch/)
+16:41:19	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/s280x280/98149456_981416058939406_583040904193900544_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQnNJBiSc79FY9vJ7OxWlBjxIIFa8HHu9D7XYOvNEvewx_czQLfU5hSqLpCLJ_9yWNg&_nc_ht=scontent.fdps5-1.fna&_nc_tp=7&oh=2fe05e4b3e6d84245c3ec79d206df5c4&oe=5EE53C57' (from https://www.facebook.com/watch/)
+16:41:20	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/p280x280/69917083_380824616160603_8394362637701349376_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQl2os5qUhI6hJNoExOBZMoQA911qPMKy-P0pnotXWzKQJkl5wfFBIv_m2lBcF3JkFs&_nc_ht=scontent.fdps5-1.fna&_nc_tp=6&oh=e9a97858bfb70e42d9ee87b10c7daf95&oe=5EE479D1' (from https://www.facebook.com/watch/)
+16:41:21	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/s552x414/98610490_283961019664375_2295920883140657152_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQmum4RHdaDNaUoqhz8F04YZhGaQDSKJC-Rv8oRvbiODa7TJKJ5Q_C7w0obDQs9BgvI&_nc_ht=scontent.fdps5-1.fna&_nc_tp=7&oh=6202ae65f568b6222c0bc7b9700695fc&oe=5EE4482E' (from https://www.facebook.com/watch/)
+16:41:23	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/s552x414/98310561_2667054376850130_6071841119426052096_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQn97TjI9ZM8RdQqmubXZvG9EIZjvU768GEkE9_dCTV3wUyXNSu57vasWxpjZsztWpk&_nc_ht=scontent.fdps5-1.fna&_nc_tp=7&oh=40cb59ff398f311ad0a36b460b5c76ee&oe=5EE376C9' (from https://www.facebook.com/watch/)
+16:41:24	Error: 	"Not Found" (404) at link https://www.facebook.com/watch/'https://scontent.fdps5-1.fna.fbcdn.net/v/t15.5256-10/s552x414/99010601_178595436748489_4195818435533340672_n.jpg?_nc_cat=1&_nc_sid=08861d&_nc_oc=AQn1Zwi6W4QDEY_j_BaTDPo6qCC-gssNQsGtJbtIBAAgGPwpba629BltKOtRagk1r_U&_nc_ht=scontent.fdps5-1.fna&_nc_tp=7&oh=f6dd65db09ea70e3bf768f7050b6122e&oe=5EE55E84' (from https://www.facebook.com/watch/)
+16:41:24	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
